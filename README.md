@@ -58,7 +58,21 @@ Replacing Thomas High School's ninth grade math and reading scores did not seem 
 ### IV. Replacing ninth-grade scores:
 #### Math and reading scores by grade
 
+Replacing ninth grade scores resulted in only one change in our "math scores by grade" analysis and "reading scores by grade" analysis. Specifically, the scores for 9th grade for Thomas High School were replaced with NaN as seen in the tables below.
+
+![Screen Shot 2022-05-11 at 1 34 55 PM](https://user-images.githubusercontent.com/101564349/167912070-a02db5db-ec19-4925-ac87-aeac91835fa1.png)          ![Screen Shot 2022-05-11 at 1 38 22 PM](https://user-images.githubusercontent.com/101564349/167912313-d6a49fdd-de5f-4c51-87ac-f06252e5914c.png)
+
 #### Scores by school spending
+
+Replacing ninth grade scores also had an affect on the results of our "scores by school spending" analysis. After updating our analysis, we can see that the _% Passing Reading_ column had a shift in its results. Each Spending Range saw an increase in percentage of the % passing reading. 
+
+**Initial Analysis**
+
+![Screen Shot 2022-05-11 at 1 43 26 PM](https://user-images.githubusercontent.com/101564349/167913332-308eeb1e-ede0-4b52-b16b-12234fb68606.png)
+
+**Updated Analysis**
+
+![Screen Shot 2022-05-11 at 1 43 47 PM](https://user-images.githubusercontent.com/101564349/167913336-941e16d8-01cd-42d7-9ff9-39dbc1206dbf.png)
 
 #### Scores by school size
 
